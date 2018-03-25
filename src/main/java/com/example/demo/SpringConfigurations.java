@@ -19,6 +19,7 @@ public class SpringConfigurations {
 		//rmiExporter.setRegistryHost("localhost");
 		//rmiExporter.setRegistryPort(1199);
 		return rmiExporter;
+		//hello there
 	}
 	
 	
